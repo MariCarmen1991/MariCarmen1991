@@ -4,14 +4,14 @@
 
 
 
-### About Me
+###  About Me
 <hr class="dotted">
 <br>
 🇬🇧 👋 Hello! my name is Mari Carmen and here I will upload some projects.
 I am an electrical engineer and I am looking for my first job as a programmer.
 Currently the language that I know the most is Java and I am focused on mobile applications (Java/Kotlin). 
 I'm learning SpringBoot 🌱  and well...  I want to increase my knowledge little by little.
-💞️ My projects are not perfect, as I said, I'm learning, so if you want to make improvements, I'll be happy.
+<br>💞️ My projects are not perfect, as I said, I'm learning, so if you want to make improvements, I'll be happy.</br>
 
 ##
 <br>
@@ -19,7 +19,7 @@ I'm learning SpringBoot 🌱  and well...  I want to increase my knowledge littl
 Soy ingeniera ele ctrica y estoy en buscando mi primer trabajo como programadora.
 Actualmente el lenguaje que más domino es Java y estoy centrada en aplicaciones móvil (Java/Kotlin). 
 Estoy aprendiendo SpringBoot🌱 y bueno.. quiero ir aumentando mis conocimientos poco a poco. 
-💞️ Mis proyectos no son  perfectos, como dije, estoy aprendiendo, así que si quieres aportar mejoras, estaré encantada. 
+<br>💞️ Mis proyectos no son  perfectos, como dije, estoy aprendiendo, así que si quieres aportar mejoras, estaré encantada. </br>
 
 
 ### Tools and Languages
@@ -32,17 +32,21 @@ Estoy aprendiendo SpringBoot🌱 y bueno.. quiero ir aumentando mis conocimiento
  
  ### Connect with me:
   <hr class="dotted">
-  <br>
-  - My LinkedIN: <a href="https://linkedin.com/in/mccaam/">
-  <img align="left" alt="Mari Carmen Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-  - E-mail:
+<!-- : https://shields.io/-->
 
-<br>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mccaam/)
+<br></br>
+[<img src="https://img.shields.io/badge/gmail-ed0000.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mc.caam@gmail.com)
 
 
+ ### In Data
+  <hr class="dotted">
 
-<!---
-MariCarmen1991/MariCarmen1991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariCarmen1991&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Your github readme stats You can use this api: https://github.com/anuraghazra/github-readme-stats-->
+<p>
+    <img width="55%" align="left" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=MariCarmen1991&show_icons=true&hide_border=false"/>
+<br></br>
+<!---MariCarmen1991/MariCarmen1991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
