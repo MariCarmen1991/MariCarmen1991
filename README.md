@@ -7,18 +7,18 @@
 ###  About Me
 <hr class="dotted">
 <br>
-🇬🇧 👋 Hello! my name is Mari Carmen and here I will upload some projects.
-I am an electrical engineer and I am looking for my first job as a programmer.
-Currently the language that I know the most is Java and I am focused on mobile applications (Java/Kotlin). 
-I'm learning SpringBoot 🌱  and well...  I want to increase my knowledge little by little.
+🇬🇧 👋 Hello! My name is Mari Carmen, I have been an Android Developer for more than two years, although I studied electrical engineering and worked there for 3 years. My github is a bit abandoned but I hope to make some contributions soon.
+I am currently working on Kotlin Multiplatform , Compose and Testing.
+
+💞️ My projects are not perfect, as I said, I am learning, so if you want to contribute improvements, I will be delighted.
 <br>💞️ My projects are not perfect, as I said, I'm learning, so if you want to make improvements, I'll be happy.</br>
 
 ##
 <br>
-🇪🇦 👋!Hola! mi nombre es Mari Carmen y aquí subiré algunos proyectos.
-Soy ingeniera ele ctrica y estoy en buscando mi primer trabajo como programadora.
-Actualmente el lenguaje que más domino es Java y estoy centrada en aplicaciones móvil (Java/Kotlin). 
-Estoy aprendiendo SpringBoot🌱 y bueno.. quiero ir aumentando mis conocimientos poco a poco. 
+🇪🇦 👋!Hola! mi nombre es Mari Carmen soy Android Developer desde hace más de dos años aunque estudié ingeniera eléctrica y trabajé de ello durante 3 años.  Mi github está algo abandonado pero espero poder hacer alguna contribución pronto. 
+Actualmente estoy trabajando en Kotlin Multiplataforma, Compose y Testing. 
+
+💞️ Mis proyectos no son perfectos, como dije, estoy aprendiendo, así que si quieres aportar mejoras, estaré encantada.
 <br>💞️ Mis proyectos no son  perfectos, como dije, estoy aprendiendo, así que si quieres aportar mejoras, estaré encantada. </br>
 
 
